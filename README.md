@@ -1,16 +1,16 @@
-### Hi there 👋
+### Avinash Maheshwari
+[![Linkedin Badge](https://img.shields.io/badge/-Avinash_Maheshwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avinash-maheshwari-02052987//)](https://www.linkedin.com/in/avinash-maheshwari-02052987/) [![Gmail Badge](https://img.shields.io/badge/-avinashkella@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:avinashkella@gmail.com)](mailto:avinashkella@gmail.com)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-<!--
-**avinashkella/avinashkella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  **Languages :** Python, Ruby on Rails,R, Java, LaTeX
+-  **Learning :** Frameworks :zap: | Open-Source :fire:
+-  **Goal :** Machine Learning Engineer :fire:	
+-  **Hobbies :** Movies :movie_camera: & Music :headphones:
+-  **Concepts :** Strong Problem Solving Skills.
 
-Here are some ideas to get you started:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![github stats](https://github-readme-stats.vercel.app/api?username=avinashkella&show_icons=true)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
