@@ -5,7 +5,7 @@
 
 -  **Languages :** Python, Ruby on Rails,R, Java, LaTeX
 -  **Learning :** Frameworks :zap: | Open-Source :fire:
--  **Goal :** Machine Learning Engineer :fire:	
+-  **Goal :** Machine Learning Engineer :fire: | Data Scientist :fire: |	Full Stack Software Engineer :fire:
 -  **Hobbies :** Movies :movie_camera: & Music :headphones:
 -  **Concepts :** Strong Problem Solving Skills.
 
