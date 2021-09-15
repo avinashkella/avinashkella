@@ -3,7 +3,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Languages :** Python, Ruby on Rails,R, Java, LaTeX
+-  **Languages :** Python, Flutter-Dart, Ruby on Rails,R, Java, LaTeX
 -  **Learning :** Frameworks :zap: | Open-Source :fire:
 -  **Goal :** Machine Learning Engineer :fire: | Data Scientist :fire: |	Full Stack Software Engineer :fire:
 -  **Hobbies :** Movies :movie_camera: & Music :headphones:
