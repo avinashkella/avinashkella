@@ -12,6 +12,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![github stats](https://github-readme-stats.vercel.app/api?username=avinashkella&show_icons=true)
+
+
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=avinashkella&show_icons=true&theme=vue-dark&show_icons=true&hide_border=true&layout=compact'/>
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=avinashkella&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
